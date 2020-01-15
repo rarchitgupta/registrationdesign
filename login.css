@@ -1,0 +1,25 @@
+.home
+{
+    background: rgba(44,62,80,0.7);
+    padding: 40px;
+    width: 250px;
+    margin: auto;
+    margin-top: 150px;
+    height: 150px;
+    margin-left: 180x;
+    border-radius:5%;
+}
+
+body
+{
+    font-family: 'Sulphur Point', sans-serif;
+    background-size: cover;
+}
+
+a
+{
+    font-size: 22px;
+    color: rgb(223, 62, 123);
+    text-decoration: blink;
+    font-weight: bold;
+}
